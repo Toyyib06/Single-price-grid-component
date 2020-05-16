@@ -61,7 +61,7 @@ p {
 }
 
 .mid {
-    background-color: hsl(179, 62%, 43%);
+    background-color:  hsl(178, 60%, 35%);
     padding: 10px 30px;
     height: 300px;
     text-align: center;
@@ -95,7 +95,7 @@ p {
 }
 
 .last {
-    background-color: hsl(218, 22%, 67%);
+    background-color: hsl(179, 62%, 43%);
     height: 300px;
     padding: 10px 30px;
     border-radius: 0px 0px 5px 5px;
@@ -141,11 +141,13 @@ footer a {
     .mid {
         flex: 1;
         border-radius: 0px 0px 0px 5px;
+        height: 270px;
     }
 
     .last {
         flex: 1;
         border-radius: 0px 0px 5px 0px;
+        height: 270px;
     }
 
 
@@ -162,7 +164,7 @@ footer a {
     }
 
     .sign-up {
-        margin-top: 10px;
+        margin-top: 30px;
         height: 30px;
     }
 }
